@@ -1,5 +1,5 @@
 ---
-name: ":black_square_button: Project task"
+name: ":white_check_mark: Project task"
 about: It is a necessary task to do in the project
 
 ---
