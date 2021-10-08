@@ -1,5 +1,5 @@
 ---
-name: ":white_check_mark: Project task"
+name: "\U0001448 Project task"
 about: It is a necessary task to do in the project
 
 ---
